@@ -1,6 +1,6 @@
-# 🔢 Contador de Parâmetros
+# 🔢 Contador entre Parâmetros
 
-Este projeto em Java solicita dois números inteiros como entrada e exibe uma contagem incremental a partir do primeiro número até a diferença entre os dois, validando antes da exibir a contagem se o segundo número é maior que o primeiro.
+Este projeto em Java solicita dois números inteiros como entrada e exibe uma contagem incremental a partir do primeiro número até a diferença entre os dois, validando se o segundo número é maior que o primeiro antes de exibir a contagem.
 
 ## 🛠 Tecnologias Utilizadas
 
